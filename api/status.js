@@ -1,4 +1,4 @@
-const BASE = 'https://ark.cn-beijing.volces.com/api/v3';
+const BASE = 'https://operator.las.ap-southeast-1.bytepluses.com/api/v1';
 
 module.exports = async (req, res) => {
   const key = process.env.ARK_API_KEY;
